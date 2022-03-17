@@ -1,5 +1,7 @@
 # Portfolio-2: Mass shooting in the US (2018 - 2021)
 
+App: https://mishra37.shinyapps.io/portfolio-2/
+
 ## Motivation
 
 Coming from India, I was extremely perplexed to see the fragile gun laws in the US and how so many people across the states owned tons of guns leading 
